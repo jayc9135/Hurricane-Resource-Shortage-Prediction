@@ -1,0 +1,15 @@
+Hurricane,Year,Shelters Opened,Meals Distributed (millions),Water Distributed (million gallons),Fuel Provided (million gallons)
+Charley,2004,250,2.0,0.3,0.1
+Frances,2004,250,3.5,1.5,0.2
+Ivan,2004,120,2.0,0.7,0.2
+Jeanne,2004,200,4.0,1.5,0.2
+Dennis,2005,70,1.0,0.5,0.1
+Katrina (FL),2005,5,0.1,0.05,0.0
+Wilma,2005,100,8.0,3.0,0.1
+Hermine,2016,20,0.05,0.01,0.0
+Matthew,2016,100,0.5,0.2,0.05
+Irma,2017,585,15.0,6.0,1.0
+Michael,2018,54,1.5,1.0,0.5
+Sally,2020,10,0.2,0.1,0.05
+Ian,2022,260,19.0,6.7,1.4
+Idalia,2023,30,0.5,0.3,0.1

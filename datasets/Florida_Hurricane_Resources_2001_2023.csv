@@ -1,11 +1,19 @@
-Year,Hurricanes,Shelters_Opened,Meals_Distributed,Water_Distributed,Fuel_Allocated_Gallons
-2004,"Charley, Frances, Ivan, Jeanne",350,7200000,36M liters,N/A
-2005,"Dennis, Katrina, Wilma",220,5800000,7.9M bottles,N/A
-2016,"Hermine, Matthew",120,N/A,N/A,N/A
-2017,Irma,100,7200000,5.5M liters,554000
-2018,Michael,50,1500000,36M liters,55000
-2019,Dorian,120,Pre-positioned,Pre-positioned,N/A
-2020,"Sally, Eta",30,N/A,N/A,N/A
-2021,Elsa,10,N/A,N/A,N/A
-2022,"Ian, Nicole",100,1700000,51M bottles,1020000
-2023,Idalia,25,200000,1.2M bottles,N/A
+Hurricane,Category, Year, Shelters (count), Meals Distributed (units), Water Distributed (units), Fuel Allocated (gallons)
+Charley,3>2>4>1,2004, 250+,2000000, 1200000 liters, N/A
+Frances,3>2>1,2004, 200+, 6000000*, 435 truckloads*, N/A
+Ivan,3>1,2004,56,2960000, N/A, N/A
+Jeanne,1>2>3>2>1,2004, (included in Frances)*, (included in Frances)*, N/A, N/A
+Dennis,1>2>3>4>3>4>,2005, 20+, (included in 2005 total)*, (included in 2005 total)*, N/A
+Katrina,,2005,14, (included in 2005 total)*, (included in 2005 total)*, N/A
+Wilma,,2005, 100+, (included in 2005 total)*, (included in 2005 total)*, N/A
+Hermine,,2016, 20+, N/A, N/A, N/A
+Matthew,,2016, 100+, N/A, N/A, N/A
+Irma,,2017, 100+,7200000, 5500000 liters, 554000+
+Michael,,2018, 50+, 1500000**, 36000000 liters**, 55000**
+Dorian,,2019, 120+, (pre-positioned)*, (pre-positioned)*, N/A
+Sally,,2020, 20+, N/A, N/A, N/A
+Eta,,2020, 10+, N/A, N/A, N/A
+Elsa,,2021, 10+, N/A, N/A, N/A
+Ian,,2022, 100+,1700000, 51000000 bottles, 10200000***
+Nicole,,2022,15, (included in Ian total)*, (included in Ian total)*, N/A
+Idalia,,2023, 25+,200000, 1200000 bottles, N/A
