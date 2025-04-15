@@ -1,4 +1,0 @@
-storm_id,storm_name,num_of_obs,date,time,record_identifier,status_of_system,latitude,longitude,maximum_sustained_wind_knots,central_pressure_mb,34_kt_ne_nm,34_kt_se_nm,34_kt_sw_nm,34_kt_nw_nm,50_kt_ne_nm,50_kt_se_nm,50_kt_sw_nm,50_kt_nw_nm,64_kt_ne_nm,64_kt_se_nm,64_kt_sw_nm,64_kt_nw_nm,radius_of_max_wind_nm
-AL011851,UNNAMED,14,18510625,1200,,HU,28.0N,96.0W,80,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999
-AL011851,UNNAMED,14,18510625,1800,,HU,28.1N,96.5W,80,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999
-AL011851,UNNAMED,14,18510625,2100,L,HU,28.2N,96.8W,80,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999
